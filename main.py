@@ -2,7 +2,7 @@
 """
 Created on Tue May  5 12:22:54 2020
 
-@author: khuze
+@author: khuze Sunel is the athorrr
 """
 
 from GetData import GetData
