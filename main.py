@@ -2,7 +2,8 @@
 """
 Created on Tue May  5 12:22:54 2020
 
-@author: khuze Sunel is the athorrr
+@author: Khuzema sunel
+Last edited : 4:20pm 5/18/2020
 """
 
 from GetData import GetData
